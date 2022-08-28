@@ -1,1 +1,1 @@
-# For INSTANT-AI
+# INSTANT-AI
