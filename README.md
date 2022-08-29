@@ -1,1 +1,1 @@
-# instant
+# INSTANT-AI
