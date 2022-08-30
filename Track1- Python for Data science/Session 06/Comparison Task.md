@@ -3,7 +3,7 @@
 
 |    |Adjacency Matrix|Adjacency List	                                                                |
 |----|----------------|-----------------                                                                |
-|memry|O (V^2^)	      |O (V+N)                                                                          |
+|memory|O (V^2^)	      |O (V+N)                                                                          |
 |Direction| Directed && Undirected      | Directed                                                      |
 |Based on|Matrix      |Linkedlist                                                                       |
 
