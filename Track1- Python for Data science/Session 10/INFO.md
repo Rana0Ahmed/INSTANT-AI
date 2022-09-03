@@ -37,7 +37,7 @@
   - class diagram
   - Data flow diagram
   
-###  Programming Language vs Framework :
+###  Programming Language vs. Framework :
 - programming languages are nothing more than a set of rules by which you make a computer do what you want.
 - Frameworks are tools that help to increase the efficiency of using a specific language, be it JavaScript, PHP, or Python. However, they help to achieve incredible results.
 - We can say that, frameworks are not magic pills. They won’t build an app for you and won’t free programmers from the need to plan the system architecture in detail.
@@ -57,7 +57,44 @@
     - MVC
     - MVVC
     
-    
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+##  Application Programming Interface (API)
+- API stands for Application Programming Interface. In the context of APIs, the word Application refers to any software with a distinct function. Interface can be thought of as a contract of service between two applications. This contract defines how the two communicate with each other using requests and responses.
+- How an API works :
+  - An API is a set of defined rules that explain how computers or applications communicate with one another. APIs sit between an application and the web server, acting as an intermediary layer that processes data transfer between systems.
+  
+## Software Models
+- Software Model is an abstract representation of the process. Each phase in the software model consists of various activities to develop software products gradually. It also specifies the order in which each phase must be executed. 
+ -  Waterfall Model :
+    - It requires a well understanding and knowledge of requirements and technology related to it.
+    - t may cause some confusion if some of the changes are made at some phases.
+ - Agile Model: 
+   - It breaks tasks into smaller iterations, or parts do not directly involve long term planning.
+   - The project scope and requirements are laid down at the beginning of the development process.
+   - Plans regarding the number of iterations, the duration and the scope of each iteration are clearly defined in advance. 
+   
+   
+## DevSecOps
+DevSecOps automatically bakes in security at every phase of the software development lifecycle, enabling development of secure software at the speed of Agile and DevOps.
+
+   
+### Tasks:
+   
+1- What is ternary search
+
+2- Crash courses about UML diagrams
+
+3- Learn clean code 
+
+4- What is the most common design patterns
+
+5- Agile vs. DevOps
+
+6- Tools used in DevOps
+
+
+
     
     
 
