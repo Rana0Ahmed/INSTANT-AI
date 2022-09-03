@@ -25,6 +25,21 @@
  <img src="https://tse4.mm.bing.net/th?id=OIP.1rTGVEx4iRtmq9TKx750OgHaHV&pid=Api&P=0" width="350">
  The software development life cycle (SDLC) explains the different stages of software development. This framework is important because it covers the planning, building, deployment, and maintenance of the software. The SDLC delivers high-quality software by creating it in a systematic manner.
  
+- UML diagrams:
+  - Entity relationship diagram (ERD)
+  - Use case diagram
+  - Sequence diagram
+  - Activity diagram
+  - class diagram
+  - Data flow diagram
+  
+###  Programming Language vs Framework :
+- programming languages are nothing more than a set of rules by which you make a computer do what you want.
+- Frameworks are tools that help to increase the efficiency of using a specific language, be it JavaScript, PHP, or Python. However, they help to achieve incredible results.
+- We can say that, frameworks are not magic pills. They won’t build an app for you and won’t free programmers from the need to plan the system architecture in detail.
+
+
+
 
  
 
