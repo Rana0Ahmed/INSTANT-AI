@@ -2,13 +2,12 @@
 
 `Subject` : Software Engineering
 
-|Basics |Technology|                               
-|-------|-----------|                              
-|Programming|AI     |                              
-|DS|Operating System|                              
-|Algorithms|SWE, System Analysis|                  
-|OOP|Network, Security|
-
+- Basics -->Technology                                                     Array                                   Array
+  - Programming : AI.                                            Sorting: Bubble Sort                   Search: Linear Search 
+  - DS :          Operating System.                                       Selection Sort                        Binary Search
+  - Algorithms :  SWE, System Analysis.                                   Insertion Sort                        Ternary Search
+  - OOP :         Network, Security.                                      Quick Sort
+              
 |       |Array|
 |-------|-----|
 |Sorting|Bubble Sort|
