@@ -53,7 +53,13 @@
   - Software application architecture is the process of defining a structured solution that meets all of the technical and operational requirements. 
   - Application's architecture is the overall 'organization' of the code. 
   - The architecture typically needs to be decided up front and often is difficult to change once the application is built.
-
+  - EX :
+    - MVC
+    - MVVC
+    
+    
+    
+    
 
 
  
