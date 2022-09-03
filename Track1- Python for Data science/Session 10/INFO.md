@@ -9,17 +9,17 @@
   - OOP :         Network, Security.                                      Quick Sort
               
 - Array
-  - Sorting:
+  - Sorting :
     - Bubble Sort
     - Selection Sort
     - Insertion Sort
     - Quick Sor|
-  - Searc:
+  - Searc :
     - Linear Searc
     - Binary Search
     - Ternary Search
 
- <img src="https://tse4.mm.bing.net/th?id=OIP.1rTGVEx4iRtmq9TKx750OgHaHV&pid=Api&P=0" width="500">
+ <img src="https://tse4.mm.bing.net/th?id=OIP.1rTGVEx4iRtmq9TKx750OgHaHV&pid=Api&P=0" width="350">
 
  
 
