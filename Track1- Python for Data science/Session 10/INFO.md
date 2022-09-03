@@ -2,10 +2,19 @@
 
 `Subject` : Software Engineering
 
-|Basics |Technologgy|
-|-------|-----------|
-|Programming|AI     |
-|DS|Operating System|
-|Algorithms|SWE, System Analysis|
+|Basics |Technology|                               
+|-------|-----------|                              
+|Programming|AI     |                              
+|DS|Operating System|                              
+|Algorithms|SWE, System Analysis|                  
 |OOP|Network, Security|
 
+|       |Array|
+|-------|-----|
+|Sorting|Bubble Sort|
+|      |Selection Sort|
+|      |Insertion Sort|
+|      |Quick Sort|
+|Search|Linear Search|
+|      |Binary Search|
+|      |Ternary Search|
