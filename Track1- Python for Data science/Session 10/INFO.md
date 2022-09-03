@@ -19,7 +19,8 @@
     - Binary Search
     - Ternary Search
     
-    
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Development Life Cycle (SDLC)
 
  <img src="https://tse4.mm.bing.net/th?id=OIP.1rTGVEx4iRtmq9TKx750OgHaHV&pid=Api&P=0" width="350">
@@ -41,6 +42,17 @@
 - Frameworks are tools that help to increase the efficiency of using a specific language, be it JavaScript, PHP, or Python. However, they help to achieve incredible results.
 - We can say that, frameworks are not magic pills. They won’t build an app for you and won’t free programmers from the need to plan the system architecture in detail.
 
+### Design Patterns vs. Architecture Patterns :
+- Design Patterns :
+  - Design Patterns are well known patterns for solving technical problems in a way that has proven itself many times. --
+  - Design patterns are common design structures and practices that make for creating reusable Object-Oriented software. 
+  - Design patterns can be used to solve smaller problems throughout the application, and are much easier to inject, change, add than the overall architecture. 
+  
+- Architecture Patterns :
+  - architecture patterns are well known patterns for solving software application architecture problems. 
+  - Software application architecture is the process of defining a structured solution that meets all of the technical and operational requirements. 
+  - Application's architecture is the overall 'organization' of the code. 
+  - The architecture typically needs to be decided up front and often is difficult to change once the application is built.
 
 
 
