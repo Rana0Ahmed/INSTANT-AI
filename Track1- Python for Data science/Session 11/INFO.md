@@ -30,3 +30,21 @@
   - a service offered by an electronic device to another electronic device, communicating with each other via the Internet.
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+## AI Pipline :
+- Ensure using AI (Verify).
+- Data collection (Data gathering, Data acquiring).
+- Data preprocessing.
+- Feature engineering.
+- Model selection  (Machine learning = Advanced statistics = Data modeling)
+- Fitting.
+- Training.
+- Testing          
+- Save model.
+- Documentation.
+- Integration.
+- Monitoring.
+- Maintenance.
+
+## Tasks:
+Read file and list each name, phone number and email separately in lists.
+
