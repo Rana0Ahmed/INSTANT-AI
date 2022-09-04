@@ -11,8 +11,8 @@
  
 ## AI :
   - 80% Data
-   - 90% Data Cleaning.
-   - 10% Data Analysis.
+    - 90% Data Cleaning.
+    - 10% Data Analysis.
    
   - 20% Modeling (Actual AI)
   
