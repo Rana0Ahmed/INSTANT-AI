@@ -42,11 +42,15 @@
   - Selenium (Automatic scrapping) [Pip](https://pypi.org/project/selenium/) [Conda](https://anaconda.org/conda-forge/selenium)
   - Cron jobs: (Automatic method)
   
-### Web Track 
+## Web Track 
 - Frontend : Design (html : hyber text markup language, css, js)
 - Backend : Database, server and operations
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+## Tasks:
+-  Architecture patterns (Types,Usage)
+-  What is cron jobs
 
   
  
