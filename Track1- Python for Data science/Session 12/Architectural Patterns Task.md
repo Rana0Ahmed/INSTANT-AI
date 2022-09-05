@@ -24,7 +24,7 @@
  - Here the server has resources(data, files or services) and a client requests the server for a particular resource. Then the server processes the request and responds back accordingly.
  - Examples of software developed in this pattern:  
    - Email.
-   - WWW.
+   - WWW .
    - File sharing apps.
    - Banking, etc…
    
