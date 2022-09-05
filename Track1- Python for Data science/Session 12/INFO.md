@@ -1,6 +1,6 @@
 `Date`: 31 Aug 22 No. 12
 
-`Subject`: Web scraping
+`Subject`: Web scrapping
 
 ### Design patterns :
  - It solves reoccurring problems in the software Design.
