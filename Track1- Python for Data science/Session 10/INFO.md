@@ -13,7 +13,7 @@
     - Bubble Sort
     - Selection Sort
     - Insertion Sort
-    - Quick Sor|
+    - Quick Sort
   - Searc :
     - Linear Searc
     - Binary Search
