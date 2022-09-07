@@ -13,9 +13,8 @@
    print(x)
    print(y)
    print(z)
-
    ```
- After execution :
+   after execution :
   ```
   Ahmed is beautiful
   Ahmed is beautiful
