@@ -28,7 +28,7 @@
     
 For more check 
 
-[Techopedia Logo](https://www.techopedia.com/definition/3854/parser)
+[Techopedia](https://www.techopedia.com/definition/3854/parser)
 
 [Learn About Parsing](https://www.youtube.com/watch?v=T0BO415l3N0)
 
