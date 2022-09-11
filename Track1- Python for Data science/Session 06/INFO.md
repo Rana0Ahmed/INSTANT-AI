@@ -1,8 +1,12 @@
-## Session content:
-### Continue Data structures. (Map, Graph, Tree)
-### Data structures implementation.
+`Date`: 10 Aug 22 No. 06
 
-## Continue Data structures Types:
+`Subject`: Data structures 
+
+
+## Content:
+ - Continue Data structures. (Map, Graph, Tree)
+ - Data structures implementation.
+ - Continue Data structures Types:
 ### Map
 - Fastest data structure after Set/Vectors/Arrays.
 
