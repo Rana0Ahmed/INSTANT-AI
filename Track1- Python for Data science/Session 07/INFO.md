@@ -8,11 +8,11 @@
  
  ## Notes
  - OOP built on five concepts:
-  - Encapsulation
-  - Abstraction
-  - Polymorphism
-  - Inheritance
-  - Composition
+   - Encapsulation
+   - Abstraction
+   - Polymorphism
+   - Inheritance
+   - Composition
  - __ used to specify private visibility
  - self isn't the only allowed keyword to represent object
  
