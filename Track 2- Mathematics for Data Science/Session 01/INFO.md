@@ -21,11 +21,11 @@
   - Eamples of Linear equations : 
     - graph in 2 dimentions :
     
-    <img src="https://tse4.mm.bing.net/th?id=OIP.4rf4VqzficU8Q_AZUp_hmQHaE8&pid=Api&P=0" width="350">
+       <img src="https://tse4.mm.bing.net/th?id=OIP.4rf4VqzficU8Q_AZUp_hmQHaE8&pid=Api&P=0" width="350">
   
     - graph in 3 dimentions :
     
-    <img src="https://i.ytimg.com/vi/IWgnjjUCjCY/hqdefault.jpg" width="350">
+       <img src="https://i.ytimg.com/vi/IWgnjjUCjCY/hqdefault.jpg" width="350">
     
     
   - We can represent a linear equation in more than 3 dimentions by using the `String Theory`.
