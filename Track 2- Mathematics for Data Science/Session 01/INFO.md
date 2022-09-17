@@ -48,7 +48,7 @@
 - The greater the number of dimensions, the greater the Overfitting occures
 
 ## Tasks 
-- How to convert nonlinear to linear equations
+- How to convert Non linear Equations to Linear Form 
 - What is PCA and how it works
 - What are C++ Libraries / Frameworks for AI
 
