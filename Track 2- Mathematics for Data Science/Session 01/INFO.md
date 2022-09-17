@@ -2,7 +2,7 @@
 
 `Subject`: Introduction | Linear Algebra
 
-# Content 
+## Session content 
 - Introduction to Equations.
 - Linear Equations.
 - System of Equations.
