@@ -4,7 +4,7 @@
 
 <img src="https://global-uploads.webflow.com/5c4c87937c1ca40c5d0432d3/5db18dd4083f4b7d14a1b9e5_Graph1.png" width="400">
 
-<img src="https://builtin.com/sites/www.builtin.com/files/inline-images/national/Principal%2520Component%2520Analysis%2520second%2520principal.gif" width="800">
+<img src="https://builtin.com/sites/www.builtin.com/files/inline-images/national/Principal%2520Component%2520Analysis%2520second%2520principal.gif" width="500">
 
 - It is a statistical procedure that allows you to summarize the information content in large data tables by means of a smaller set of “summary indices” that can be more easily visualized and analyzed. 
 - By transforming a large set of variables into a smaller one that still contains most of the information in the large set.
