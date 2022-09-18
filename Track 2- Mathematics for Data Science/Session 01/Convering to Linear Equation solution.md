@@ -8,8 +8,10 @@ Suppose we have this non-linear equation :
 
 - First step: Make The Equation To Be In Terms of Y
   - Divide Both sides by
+
   
    <img src="https://tex.z-dn.net/?f=%5Csqrt%7B3%7D" width="30">
+   
   
    <img src="https://tex.z-dn.net/?f=%5Cfrac%7B%20%7Bx%7D%5E%7B2%7D%20%7D%7B%20%5Csqrt%7B3%7D%20%7D%20%3D%20%5Cfrac%7B%20%5Csqrt%7B3%7D%20y%7D%7B%20%5Csqrt%7B3%7D%20%7D" width="90">
   
