@@ -1,6 +1,6 @@
 ## A Linear Equation Takes The Format :
 
-<img src="https://tex.z-dn.net/?f=y%20%3D%20mx%20%2B%20b" width="100">
+y = mx + b
 
 Suppose we have this non-linear equation :
 
@@ -23,8 +23,7 @@ Suppose we have this non-linear equation :
   
   
    <img src="https://tex.z-dn.net/?f=%5Cfrac%7B1%7D%7By%7D%20%3D%20y" width="80">
-   
-   
+
   
    <img src="https://tex.z-dn.net/?f=b%20%3D%200" width="80">
    
