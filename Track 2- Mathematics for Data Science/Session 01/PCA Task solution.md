@@ -20,3 +20,8 @@
   - Reduce Noise in Data
   - Feature Selection
   
+  ### Resources
+  [Built In](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
+  
+  [Pianalytix](https://pianalytix.com/what-is-principal-component-analysis-pca-and-how-it-works/)
+  
