@@ -1,4 +1,4 @@
-`Date`: 28 Aug 22 No. 11
+`Date`: 28 Aug 22 No. 10
 
 `Subject`: AI Pipeline
 

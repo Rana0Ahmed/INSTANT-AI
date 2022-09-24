@@ -1,4 +1,4 @@
-`Date`: 31 Aug 22 No. 12
+`Date`: 31 Aug 22 No. 11
 
 `Subject`: Web scrapping
 
