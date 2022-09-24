@@ -1,103 +1,50 @@
-`Date` : 24 Aug 22 No. 10
+`Date`: 28 Aug 22 No. 11
 
-`Subject` : Software Engineering
+`Subject`: AI Pipeline
 
-- Basics -->Technology                                                     Array                                   Array
-  - Programming : AI.                                            Sorting: Bubble Sort                   Search: Linear Search 
-  - DS :          Operating System.                                       Selection Sort                        Binary Search
-  - Algorithms :  SWE, System Analysis.                                   Insertion Sort                        Ternary Search
-  - OOP :         Network, Security.                                      Quick Sort
-              
-- Array
-  - Sorting :
-    - Bubble Sort
-    - Selection Sort
-    - Insertion Sort
-    - Quick Sort
-  - Searc :
-    - Linear Searc
-    - Binary Search
-    - Ternary Search
-    
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## content:
+- AI Pipeline
+- Regular expression (regex)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### DevSecOps
+- DevSecOps is the culture of integrating security practices within the DevOps process. Simply it is DevOps with the lens of security. 
+- Doing DevOps with no preference for security is not a complete DevOps. DevOps cycle with added Security is DevSecOps. A good devsecops approach brings together tools, processes, and culture.
 
-## Development Life Cycle (SDLC)
+### MLOps
+- In short DevOps mean, shorten the process of software development lifecycle by providing the service of continuous integration and continuous delivery in production.
+- DevOps = Development + Operation.
+- MLOps = Machine Learning + Development + Operation.
 
- <img src="https://tse4.mm.bing.net/th?id=OIP.1rTGVEx4iRtmq9TKx750OgHaHV&pid=Api&P=0" width="350">
- The software development life cycle (SDLC) explains the different stages of software development. This framework is important because it covers the planning, building, deployment, and maintenance of the software. The SDLC delivers high-quality software by creating it in a systematic manner.
+### DataOps
+- DataOps is a collection of technical practices, workflows, cultural norms, and architectural patterns that enable:
+ - Rapid innovation and experimentation delivering new insights to customers with increasing velocity.
+ - Extremely high data quality and very low error rates.
+ - Collaboration across complex arrays of people, technology, and environments.
+ - Clear measurement, monitoring, and transparency of results.
  
+ ### Microservices
+ - Microservices are an architectural and organizational approach to software development where software is composed of small independent services that communicate over well-defined APIs.
+ - Microservices architectures make applications easier to scale and faster to develop, enabling innovation and accelerating time-to-market for new features.
  
- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
-- UML diagrams:
-  - Entity relationship diagram (ERD)
-  - Use case diagram
-  - Sequence diagram
-  - Activity diagram
-  - class diagram
-  - Data flow diagram
+ ### Web Service (WS)
+  - a service offered by an electronic device to another electronic device, communicating with each other via the Internet.
   
-###  Programming Language vs. Framework :
-- programming languages are nothing more than a set of rules by which you make a computer do what you want.
-- Frameworks are tools that help to increase the efficiency of using a specific language, be it JavaScript, PHP, or Python. However, they help to achieve incredible results.
-- We can say that, frameworks are not magic pills. They won’t build an app for you and won’t free programmers from the need to plan the system architecture in detail.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+## AI Pipline :
+- Ensure using AI (Verify).
+- Data collection (Data gathering, Data acquiring).
+- Data preprocessing.
+- Feature engineering.
+- Model selection  (Machine learning = Advanced statistics = Data modeling)
+- Fitting.
+- Training.
+- Testing          
+- Save model.
+- Documentation.
+- Integration.
+- Monitoring.
+- Maintenance.
 
-### Design Patterns vs. Architecture Patterns :
-- Design Patterns :
-  - Design Patterns are well known patterns for solving technical problems in a way that has proven itself many times. --
-  - Design patterns are common design structures and practices that make for creating reusable Object-Oriented software. 
-  - Design patterns can be used to solve smaller problems throughout the application, and are much easier to inject, change, add than the overall architecture. 
-  
-- Architecture Patterns :
-  - architecture patterns are well known patterns for solving software application architecture problems. 
-  - Software application architecture is the process of defining a structured solution that meets all of the technical and operational requirements. 
-  - Application's architecture is the overall 'organization' of the code. 
-  - The architecture typically needs to be decided up front and often is difficult to change once the application is built.
-  - EX :
-    - MVC
-    - MVVC
-    
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-##  Application Programming Interface (API)
-- API stands for Application Programming Interface. In the context of APIs, the word Application refers to any software with a distinct function. Interface can be thought of as a contract of service between two applications. This contract defines how the two communicate with each other using requests and responses.
-- How an API works :
-  - An API is a set of defined rules that explain how computers or applications communicate with one another. APIs sit between an application and the web server, acting as an intermediary layer that processes data transfer between systems.
-  
-## Software Models
-- Software Model is an abstract representation of the process. Each phase in the software model consists of various activities to develop software products gradually. It also specifies the order in which each phase must be executed. 
- -  Waterfall Model :
-    - It requires a well understanding and knowledge of requirements and technology related to it.
-    - t may cause some confusion if some of the changes are made at some phases.
- - Agile Model: 
-   - It breaks tasks into smaller iterations, or parts do not directly involve long term planning.
-   - The project scope and requirements are laid down at the beginning of the development process.
-   - Plans regarding the number of iterations, the duration and the scope of each iteration are clearly defined in advance. 
-   
-   
-## DevSecOps
-DevSecOps automatically bakes in security at every phase of the software development lifecycle, enabling development of secure software at the speed of Agile and DevOps.
-
-   
-### Tasks:
-   
-1- What is ternary search
-
-2- Crash courses about UML diagrams
-
-3- Learn clean code 
-
-4- What is the most common design patterns
-
-5- Agile vs. DevOps
-
-6- Tools used in DevOps
-
-
-
-    
-    
-
-
- 
+## Tasks:
+Read file and list each name, phone number and email separately in lists.
 

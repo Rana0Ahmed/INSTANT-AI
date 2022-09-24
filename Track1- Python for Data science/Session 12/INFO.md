@@ -1,57 +1,43 @@
-`Date`: 31 Aug 22 No. 12
+`Date`: 4 Sep 22 No. 14
 
-`Subject`: Web scrapping
+`Subject`: Web Scrapping
 
-### Design patterns :
- - It solves reoccurring problems in the software Design.
- 
-### Architectural Patterns :
- - It serves as a blueprint for the software systems.
- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
-## AI :
-  - 80% Data
-    - 90% Data Cleaning.
-    - 10% Data Analysis.
-   
-  - 20% Modeling (Actual AI)
-  
-## Data Collection methods: 
-  - 1- Available(Access ) 
-  - 2- Available (free) --> (Download)
-  - 3- Available (not for free) --> (Buy)
-  - 4- Not Available (request)
-  - 5- Not Available but exist (Scrapping)
-  - 6- Not Available (creat)
-  
-## How to creat data :
- - 1- Survery
- - 2- Data Entry
- 
-## Websites to get free date :
-  - [Google Dataset](https://datasetsearch.research.google.com/)
-  - [Kaggle](https://www.kaggle.com/datasets)
-  - [data.world](https://data.world/datasets/open-data)
-  - [Hugging Face](https://huggingface.co/datasets)
-  - [Academic Torrents](https://academictorrents.com/collection/datasets)
-  
-## Web Scrapping 
-- Requirements :
-  - Beautifulsoup [Pip](https://pypi.org/project/beautifulsoup4/) [Conda](https://anaconda.org/anaconda/beautifulsoup4)
-  - Requests (api --> request) [Pip](https://pypi.org/project/requests/) [Conda](https://anaconda.org/anaconda/requests)
-  - Selenium (Automatic scrapping) [Pip](https://pypi.org/project/selenium/) [Conda](https://anaconda.org/conda-forge/selenium)
-  - Cron jobs: (Automatic method)
-  
-## Web Track 
-- Frontend : Design (html : hyber text markup language, css, js)
-- Backend : Database, server and operations
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Notes 
+- `strip()` function, can remove extra characters alphabets, numbers, spaces... from the laft and right side of the string
+
+   ```
+   x = "    Ahmed is beautiful    "
+   y = "!!!!Ahmed is beautiful!!!!"
+   z = "rrrrAhmed is beautifulrrrr"
+
+   print(x)
+   print(y)
+   print(z)
+   ```
+   after execution :
+  ```
+  Ahmed is beautiful
+  Ahmed is beautiful
+  Ahmed is beautiful
+  ```
+- Parser
+  - What Does Parser Mean?
+    - A parser is a compiler or interpreter component that breaks data into smaller elements for easy translation into another language.
+  - What does a parser do?
+    - It brings a portion of commands and instrucions and splits thaem into other pieces in programming, then it checks if the information is enough to develop a data structure such as a 'parse tree'.
+    
+For more check 
+
+[Techopedia](https://www.techopedia.com/definition/3854/parser)
+
+[Learn About Parsing](https://www.youtube.com/watch?v=T0BO415l3N0)
+
+[Comparison of HTML parsers](https://en.wikipedia.org/wiki/Comparison_of_HTML_parsers#:~:text=HTML%20parsers%20are%20software%20for%20automated%20Hypertext%20Markup,easily%20access%20and%20modify%20the%20%22HTML%20string%20code%22.)
 
 
-## Tasks:
--  Architecture patterns (Types,Usage)
--  What is cron jobs
+## Tasks :
+1. Download YouTube video by using Python code
+2. Scrape images by using Python code
+3. Scrape 5 articles from [CoreyMS](https://coreyms.com/)
+4. Scrape all [Your YouTube Subscriptions](https://www.youtube.com/feed/channels) (name and link for each channel)
 
-  
- 
- 
