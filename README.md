@@ -22,28 +22,30 @@
 ## Sessions
 
 ### Track 1: Python for Data science
-|   Date                               |Session                           |
-|----------------------------------------|------------------------------------|
-|24 Jul 2022|[Session 01](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2001)|
-|27 Jul 2022|[Session 02](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2002)|
-|31 Jul 2022|[Session 03](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2003)|
-|3 Aug 2022|[Session 04](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2004)|
-|7 Aug 2022|[Session 05](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2005)|
-|10 Aug 2022|[Session 06](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2006)|
-|14 Aug 2022|[Session 07](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2007)|
-|17 Aug 2022|[Session 08](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2008)|
-|21 Aug 2022|[Session 09](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2009)|
-|24 Aug 2022|[Session 10](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2010)|
-|28 Aug 2022|[Session 11](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2011)|
-|31 Aug 2022|[Session 12](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2012)|
-|3 Sep 2022|[Session 13](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2013)|
-|4 Sep 2022|[Session 14](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2014)|
+ |Sessions|
+|---|
+|[Session 01](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2001)|
+|[Session 02](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2002)|
+|[Session 03](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2003)|
+|[Session 04](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2004)|
+|[Session 05](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2005)|
+|[Session 06](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2006)|
+|[Session 07](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2007)|
+|[Session 08](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2008)|
+|[Session 09](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track1-%20Python%20for%20Data%20science/Session%2009/INFO.md)|
+|[Session 10](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2010)|
+|[Session 11](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2011)|
+|[Session 12](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2012)|
+|[Revision 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Revision%201)|
+|[Revision 2](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Revision%202)|
 
 ### Track 2: Mathematics for Data science
-|   Date     |                                              Session                                                                        |  
-|------------|-----------------------------------------------------------------------------------------------------------------------------|
-|11 Sep 2022 |[Session 01](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%202-%20Mathematics%20for%20Data%20Science/Session%2001)|
-|14 Sep 2022 |[Session 02](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%202-%20Mathematics%20for%20Data%20Science/Session%2002)|
+|                                              Sessions                                                                       |  
+|-----------------------------------------------------------------------------------------------------------------------------|
+|[Session 01](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%202-%20Mathematics%20for%20Data%20Science/Session%2001)|
+|[Session 02](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%202-%20Mathematics%20for%20Data%20Science/Session%2002)|
+|[Session 03](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%202-%20Mathematics%20for%20Data%20Science/Session%2003)|
+|[Revision 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%202-%20Mathematics%20for%20Data%20Science/Revision%201)|
 
 ### Projects
 [Mini Project 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Mini%20Project%201)
