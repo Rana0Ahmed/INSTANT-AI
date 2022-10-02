@@ -8,6 +8,6 @@
 - Hypothesis testing is a formal procedure to check if a hypothesis is true or not.
 
 ## Tasks
-- What is statistical tests, and its types
+- What is statistical tests and its types
 - Example for hypothesis testing (a usecase in business)
 
