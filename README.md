@@ -22,10 +22,10 @@
 ## Sessions
 
 ### Track 1: Python for Data science
- |Sessions|
-|---|
-|[Session 01](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2001)|               
-|[Session 02](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2002)|               
+ |Sessions|Revisions|
+|---|---------------------------------|
+|[Session 01](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2001)|[Revision 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Revision%201)|               
+|[Session 02](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2002)|[Revision 2](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Revision%202) |              
 |[Session 03](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2003)|               
 |[Session 04](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2004)|
 |[Session 05](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2005)|
@@ -36,8 +36,6 @@
 |[Session 10](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2010)|
 |[Session 11](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2011)|
 |[Session 12](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2012)|
-|[Revision 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Revision%201)|
-|[Revision 2](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Revision%202)|
 
 ### Track 2: Mathematics for Data science
 |                                              Sessions                                                                       |  
