@@ -1,6 +1,6 @@
 `Date`: 2 Oct 22 Session No. 05
 
-`Subject`: NumPy
+`Subject`: NumPy (1)
 
 # Notes
 - NumPY Data Types are (int, float, complex, bool, string, unicode and object).
