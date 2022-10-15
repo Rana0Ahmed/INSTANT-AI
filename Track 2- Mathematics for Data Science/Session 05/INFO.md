@@ -26,5 +26,8 @@
 |	string_	|S|
 |unicode_|	U|
 
+- In `Concatenation`: axis = 0 (Rows), 1 (Columns)
+- In `Sortig`: axis = 1 (Rows), 0 (Columns)
+
 # Tasks
 
