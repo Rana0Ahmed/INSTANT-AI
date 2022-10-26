@@ -1,6 +1,6 @@
 `Date`: 16 Oct 22 No. 08
 
-`Subject`: Pandas(2)
+`Subject`: Pandas
 
 # Notes
 - `loc` label based
