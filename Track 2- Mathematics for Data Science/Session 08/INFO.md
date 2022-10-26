@@ -3,6 +3,7 @@
 `Subject`: Pandas(2)
 
 # Notes
-
+- `loc` label based
+- `iloc` integer position based
 # Tasks
 - How to append data in csv/excel file
