@@ -3,7 +3,10 @@
 `Subject`: Pandas
 
 # Notes
-- `loc` label based
-- `iloc` integer position based
+- `group by` (sp;it, apply and combine)
+- `group by` consumes big memory 
+
+
 # Tasks
 - How to append data in csv/excel file
+
