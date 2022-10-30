@@ -3,7 +3,7 @@
 `Subject`: Pandas
 
 # Notes
-- `group by` (sp;it, apply and combine)
+- `group by` (split, apply and combine)
 - `group by` consumes big memory 
 
 
