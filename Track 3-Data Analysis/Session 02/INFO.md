@@ -1,4 +1,4 @@
-`Date`: 5 Oct 22 Session No. 06
+`Date`: 5 Oct 22 Session No. 02
 
 `Subject`: NumPy (2)
 
