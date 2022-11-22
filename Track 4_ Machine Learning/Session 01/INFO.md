@@ -23,10 +23,8 @@
     - Clustering ( Grouping ) : Divide data into groups. 
   - Self Supervised [Reinforcement learning, Q learning] (model corrects itself)
 - **Types of models:** 
-
-  1- Statistical Model
-  
-  2- Non Statistical Model 
+  - Statistical Model
+  - Non Statistical Model 
 
 
 ## Tasks
