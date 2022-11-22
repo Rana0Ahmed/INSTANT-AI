@@ -22,7 +22,7 @@
 ## Sessions
 
 ### Track 1: Python for Data science
- |Sessions|Revisions|
+ |Session|Revision|
 |---|---------------------------------|
 |[Session 01](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2001)|[Revision 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Revision%201)|               
 |[Session 02](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2002)|[Revision 2](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Revision%202) |              
