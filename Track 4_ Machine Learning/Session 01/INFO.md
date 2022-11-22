@@ -31,5 +31,5 @@
 
 - What is Semi-supervised learning
 - Examples for Non Statistical Models
-- Solve an example (with one feature) for Linear_regression
-- Solve an example (with more than one feature) for Linear_regression
+- Solve an example (with one variable) for Linear_regression
+- Solve an example (with multiple variables) for Linear_regression
