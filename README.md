@@ -45,6 +45,12 @@
 |[Session 03](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%202-%20Mathematics%20for%20Data%20Science/Session%2003)|
 |[Revision 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%202-%20Mathematics%20for%20Data%20Science/Revision%201)|
 
+### Track 3_Data Analysis
+### Track 4_ Machine Learning
+|Session|Topic|
+|-------|-----|
+|[Session 01](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%204_%20Machine%20Learning/Session%2001)|Linear_regression|
+
 ### Projects
 [Mini Project 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Mini%20Project%201)
 
