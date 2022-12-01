@@ -50,7 +50,7 @@
 |Session|Topic|
 |-------|-----|
 |[Session 01](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%204_%20Machine%20Learning/Session%2001)|Linear_regression|
-
+|[Session 02](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%204_%20Machine%20Learning/Session%2002/INFO.md)|Model Evaluation and Validation|
 ### Projects
 [Mini Project 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Mini%20Project%201)
 
