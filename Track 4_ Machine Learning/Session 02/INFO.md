@@ -34,7 +34,7 @@
 - **F1 SCORE and F-BETA SCORE**
   - `F1 SCORE` is an evaluation metric for a classification defined as the harmonic mean of precision and recall. It is a statistical measure of the accuracy of a test or model
   
-   <img src="https://camo.githubusercontent.com/21d7bfc19ec219729b9e019bc062bd79f86b26871d9dee8f6f361f1f9b4ce6a5/68747470733a2f2f692e696d6775722e636f6d2f52496a3053776d2e6a706567" width="500">
+    <img src="https://camo.githubusercontent.com/21d7bfc19ec219729b9e019bc062bd79f86b26871d9dee8f6f361f1f9b4ce6a5/68747470733a2f2f692e696d6775722e636f6d2f52496a3053776d2e6a706567" width="500">
   
   - `F-BETA SCORE` calculation follows the same form as the F-1 score, however it also allows you to decide how to weight the balance between precision and recall using the beta parameter
   
@@ -56,6 +56,7 @@
 - **Linear Regression is Sensitive to `Outliers`**
 
 ## Tasks
+
 
 
   
