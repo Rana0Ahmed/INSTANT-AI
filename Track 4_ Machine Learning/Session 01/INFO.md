@@ -31,5 +31,5 @@
 
 - What is Semi-supervised learning
 - Examples for Non Statistical Models
-- Solve an example with one variable (**canada_per_capita_income**) for Linear_regression
-- Solve an example with multiple variables (**hiring**) for Linear_regression
+- Solve an example with one variable ([canada_per_capita_income](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%204_%20Machine%20Learning/Session%2001/canada_per_capita_income%20(one%20variable))) for Linear_regression
+- Solve an example with multiple variables ([hiring](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%204_%20Machine%20Learning/Session%2001/hiring%20(multiple%20variables))) for Linear_regression
