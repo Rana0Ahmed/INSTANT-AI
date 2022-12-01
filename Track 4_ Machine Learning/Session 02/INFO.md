@@ -16,6 +16,7 @@
   - Is a technique for summarizing the performance of a classification algorithm
   - The number of correct and incorrect predictions are summarized with count values and broken down by each class
   
+  
   <img src="https://miro.medium.com/max/2560/1*mdtqR2kyElMd0cCGM4gtuw.jpeg" width="450">
   
 - **Precision and Recall**
