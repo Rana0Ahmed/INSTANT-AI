@@ -21,15 +21,15 @@
 - **Precision and Recall**
   - Are commonly used metrics to measure the performance of machine learning models or AI solutions
   - `Precision` measures the proportion of correct positive predictions
-  ```
-  Precision = True Positive/True Positive + False Positive  
-  Precision = TP/TP+FP
-  ```
+     ```
+     Precision = True Positive/True Positive + False Positive  
+     Precision = TP/TP+FP
+     ```
   - `Recall` measures the proportion of actual positive labels correctly identified by the model
-  ```
-  Recall = True Positive/True Positive + False Negative  
-  Recall = TP/TP+FN  
-  ```
+     ```
+     Recall = True Positive/True Positive + False Negative  
+     Recall = TP/TP+FN  
+     ```
   
 - **F1 SCORE and F-BETA SCORE**
   - `F1 SCORE` is an evaluation metric for a classification defined as the harmonic mean of precision and recall. It is a statistical measure of the accuracy of a test or model
@@ -42,14 +42,14 @@
   - Is a graph showing the performance of a classification model at all classification thresholds, it plots two parameters:
   
       • True Positive Rate (TPR) is a synonym for recall
-      ```
-      True Positive Rate = TRUE POSITIVES / ALL POSITIVES
-      ```
+        ```
+        True Positive Rate = TRUE POSITIVES / ALL POSITIVES
+        ```
       
       • False Positive Rate (FPR)
-      ```
-      False Positive Rate = FALSE POSITIVES / ALL NEGATIVES
-      ```
+        ```
+        False Positive Rate = FALSE POSITIVES / ALL NEGATIVES
+        ```
 - **Gradient Descent** 
   - It is an Optimization Algorithm to find the Minimum of a Function
   - Start with a random point on the function and move in the negative direction of the gradient of the function to reach the local/global minima
