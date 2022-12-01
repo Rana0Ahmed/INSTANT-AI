@@ -42,14 +42,14 @@
   - Is a graph showing the performance of a classification model at all classification thresholds, it plots two parameters:
   
       • True Positive Rate (TPR) is a synonym for recall
-        ```
-        True Positive Rate = TRUE POSITIVES / ALL POSITIVES
-        ```
+     ```
+    True Positive Rate = TRUE POSITIVES / ALL POSITIVES
+    ```
       
       • False Positive Rate (FPR)
-        ```
-        False Positive Rate = FALSE POSITIVES / ALL NEGATIVES
-        ```
+    ```
+    False Positive Rate = FALSE POSITIVES / ALL NEGATIVES
+    ```
 - **Gradient Descent** 
   - It is an Optimization Algorithm to find the Minimum of a Function
   - Start with a random point on the function and move in the negative direction of the gradient of the function to reach the local/global minima
