@@ -1,8 +1,11 @@
 ## Semi-Supervised Learning
-<img src="https://miro.medium.com/max/1472/1*mfKGXLGN0ixTEKk07BquSw.png" width="450">
 
 - Semi-supervised learning is a broad category of machine learning methods that makes use of both labeled and unlabeled data, it is a combination of supervised and unsupervised learning methods
-- Semi-supervised learning uses pseudo labeling to train the model with less labeled training data than supervised learning 
+- Semi-supervised learning uses pseudo labeling to train the model with less labeled training data than supervised learning
+
+<img src="https://miro.medium.com/max/1472/1*mfKGXLGN0ixTEKk07BquSw.png" width="450">
+
+
 - The whole working of semi-supervised learning
   - It trains the model with less amount of training data similar to the supervised learning models. The training continues until the model gives accurate results
   - The algorithms use the unlabeled dataset with pseudo labels in the next step, and now the result may not be accurate
