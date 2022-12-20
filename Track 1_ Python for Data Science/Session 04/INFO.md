@@ -1,8 +1,8 @@
 `Date`: 3 Aug 22 No. 04
 
-`Subject`: Python Basics (2)
+`Topic`: Python Basics (2)
 
-## Content:
+## Notes
  - Containters
  - Loops
  - Functions
