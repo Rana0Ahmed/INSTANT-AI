@@ -1,4 +1,4 @@
-# INSTANT
+# INSTANT-AI
 
 <img src ="https://camo.githubusercontent.com/1ca0b9c77ab067dddbe3057ba3b5c57f7e273d8b294e588329d5a06546639230/68747470733a2f2f692e6962622e636f2f35594c68595a4c2f312e706e67" width="350" heigh="350">
 
@@ -9,33 +9,29 @@
  - [Official Website](https://www.instant-ss.com/)
  - [LinkedIn](https://www.linkedin.com/company/instantsoftwaresolution/)
 
-
-
-
 # About Course
 #### Artificial Intelligence Diploma (150 Hours)
 
-
-## Diploma content
+## Curriculum
 - [Artificial Intelligence Diploma (5 Months)](https://drive.google.com/file/d/1wTd9mdGzxWzFVL13FYEI51YvWg9Bv1v5/view)
 
-## Sessions
+## Diploma content
 
 ### Track 1: Python for Data science
- |Session|Revision|
+ |Sessions|Topic|
 |---|---------------------------------|
-|[Session 01](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2001)|[Revision 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Revision%201)|               
-|[Session 02](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2002)|[Revision 2](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Revision%202) |              
-|[Session 03](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2003)|               
-|[Session 04](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2004)|
-|[Session 05](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2005)|
-|[Session 06](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2006)|
-|[Session 07](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2007)|
-|[Session 08](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2008)|
-|[Session 09](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track1-%20Python%20for%20Data%20science/Session%2009/INFO.md)|
-|[Session 10](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2010)|
-|[Session 11](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2011)|
-|[Session 12](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Session%2012)|
+|01|[Introduction to AI](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2001/INFO.md)|               
+|02|[Git/Github](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2002/INFO.md) |              
+|03|[Python Basics (1)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2003/INFO.md)|               
+|04|[Python Basics (2)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2004/INFO.md)|
+|05|[Data structures (1)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2005/INFO.md)|
+|06|[Data structures (2)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2006/INFO.md)|
+|07|[Object-oriented programming (1)](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20Science/Session%2007)|
+|08|[Object-oriented programming (2)](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20Science/Session%2008)|
+|09|[Software Engineering](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2009/INFO.md)|
+|10|[AI Pipeline](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2010/INFO.md)|
+|11|[Web scrapping (1)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2011/INFO.md)|
+|12|[Web scrapping (2)](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20Science/Session%2012)|
 
 ### Track 2: Mathematics for Data science
 |                                              Sessions                                                                       |  
