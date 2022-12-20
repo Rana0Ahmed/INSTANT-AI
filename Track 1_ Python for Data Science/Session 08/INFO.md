@@ -1,12 +1,13 @@
 `Date`: 17 Aug 22 No. 08
 
-`Subject`: Object-Oriented Programming
+`Topic`: Object-Oriented Programming
 
-## Content:
+## Content
  - Inheritanc
  - Polymorphism
  - Composition
- 
-## Tasks:
+## Note
+
+## Tasks
  - Why and how to use protected visibility in python
  - How to access private data in super class from sub-class 
