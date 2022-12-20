@@ -8,8 +8,8 @@ Instant Software Solution is a software company that relies primarily on innovat
 
 ### Contact info
 
- - [Official Website](https://www.instant-ss.com/)
- - [LinkedIn](https://www.linkedin.com/company/instantsoftwaresolution/)
+  - [Official Website](https://www.instant-ss.com/)
+  - [LinkedIn](https://www.linkedin.com/company/instantsoftwaresolution/)
 
 # About Course
 #### Artificial Intelligence Diploma (150 Hours)
