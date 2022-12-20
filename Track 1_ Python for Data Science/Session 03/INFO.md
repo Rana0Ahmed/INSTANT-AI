@@ -1,8 +1,8 @@
 `Date`: 31 Jul 22 Session No. 03
 
-`Subject`: Python Basics (1) 
+`Topic`: Python Basics (1) 
 
-## Content:
+## Notes
  - Syntax.
  - Variables.
  - Datatypes.
@@ -11,4 +11,4 @@
  - Conditions.
  
  ## Tasks
- ------
+ 
