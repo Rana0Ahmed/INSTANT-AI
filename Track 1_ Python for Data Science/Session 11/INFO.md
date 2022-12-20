@@ -4,10 +4,10 @@
 
 ## Notes
 - **Design patterns** :
- - It solves reoccurring problems in the software Design.
+  - It solves reoccurring problems in the software Design.
  
 - **Architectural Patterns** :
- - It serves as a blueprint for the software systems.
+  - It serves as a blueprint for the software systems.
  
 - **AI** :
   - 80% Data
@@ -43,8 +43,8 @@
    - Cron jobs: (Automatic method)
   
 - **Web Track** 
- - Frontend : Design (html : hyber text markup language, css, js)
- - Backend : Database, server and operations
+  - Frontend : Design (html : hyber text markup language, css, js)
+  - Backend : Database, server and operations
 
 ## Tasks
 -  Architecture patterns (Types,Usage)
