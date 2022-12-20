@@ -1,7 +1,8 @@
 `Date` : 24 Aug 22 No. 09
 
-`Subject` : Software Engineering
+`Topic` : Software Engineering
 
+## Notes
 - Basics -->Technology                                                     Array                                   Array
   - Programming : AI.                                            Sorting: Bubble Sort                   Search: Linear Search 
   - DS :          Operating System.                                       Selection Sort                        Binary Search
@@ -79,19 +80,14 @@
 DevSecOps automatically bakes in security at every phase of the software development lifecycle, enabling development of secure software at the speed of Agile and DevOps.
 
    
-### Tasks:
-   
-1- What is ternary search
+### Tasks
 
-2- Crash courses about UML diagrams
-
-3- Learn clean code 
-
-4- What is the most common design patterns
-
-5- Agile vs. DevOps
-
-6- Tools used in DevOps
+- What is ternary search
+- Crash courses about UML diagrams
+- Learn clean code 
+- What is the most common design patterns
+- Agile vs. DevOps
+- Tools used in DevOps
 
 
 
