@@ -1,5 +1,6 @@
 `Date`: 24 Jul 22 No. 01
-`Subject`: Introduction to AI
+
+`Topic`: Introduction to AI
 
 # - Tasks
 - Report about new programming language (1 year ago)
