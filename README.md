@@ -53,14 +53,20 @@ This repository will provide my Artificial Intelligence journey with INSTANT Sof
 |[Session 03](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%202-%20Mathematics%20for%20Data%20Science/Session%2003)|
 |[Revision 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%202-%20Mathematics%20for%20Data%20Science/Revision%201)|
 
-### Track 3_Data Analysis
-### Track 4_ Machine Learning
+### Track 3: Data Analysis
+### Track 4: Machine Learning
+
+<HTML><div align="center">
+    
 |Session|Topic|
 |-------|-----|
-|(01)|[Linear_regression 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%204_%20Machine%20Learning/Session%2001)|
-|(02)|[Model Evaluation and Validation](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%204_%20Machine%20Learning/Session%2002/INFO.md)|
-|(03)|[Linear_regression 2](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%204_%20Machine%20Learning/Session%2003)|
-|(04)|[Decision Tree and Random Forest](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%204_%20Machine%20Learning/Session%2004/INFO.md)|
+|**(01)**|[Linear_regression 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%204_%20Machine%20Learning/Session%2001)|
+|**(02)**|[Model Evaluation and Validation](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%204_%20Machine%20Learning/Session%2002/INFO.md)|
+|**(03)**|[Linear_regression 2](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%204_%20Machine%20Learning/Session%2003)|
+|**(04)**|[Decision Tree and Random Forest](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%204_%20Machine%20Learning/Session%2004/INFO.md)|
+
+</div> </HTML>
+
 ### Projects
 [Mini Project 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track1-%20Python%20for%20Data%20science/Mini%20Project%201)
 
