@@ -12,16 +12,14 @@ This repository will provide my Artificial Intelligence journey with INSTANT Sof
     Instant Software Solution is a software company that relies primarily on innovative and modern solutions in the field of software and is a modern company that uses all tools, We keep things simple, putting you in control so you can make informed choices.
 </p>
 
-### Contact info
 
-  - [Official Website](https://www.instant-ss.com/)
-  - [LinkedIn](https://www.linkedin.com/company/instantsoftwaresolution/)
+### Contact info
+  * [Official Website](https://www.instant-ss.com/)
+  * [LinkedIn](https://www.linkedin.com/company/instantsoftwaresolution/)
 
 # About Course
 #### Artificial Intelligence Diploma (150 Hours)
-
-## Curriculum
-- [Artificial Intelligence Diploma (5 Months)](https://drive.google.com/file/d/1wTd9mdGzxWzFVL13FYEI51YvWg9Bv1v5/view)
+* [Artificial Intelligence Diploma (5 Months)](https://drive.google.com/file/d/1wTd9mdGzxWzFVL13FYEI51YvWg9Bv1v5/view)
 
 ## Diploma content
 
