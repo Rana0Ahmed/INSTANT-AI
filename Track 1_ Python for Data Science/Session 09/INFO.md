@@ -22,7 +22,7 @@
     
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Development Life Cycle (SDLC)
+## Development Life Cycle(SDLC)
 
  <img src="https://tse4.mm.bing.net/th?id=OIP.1rTGVEx4iRtmq9TKx750OgHaHV&pid=Api&P=0" width="350">
  The software development life cycle (SDLC) explains the different stages of software development. This framework is important because it covers the planning, building, deployment, and maintenance of the software. The SDLC delivers high-quality software by creating it in a systematic manner.
