@@ -48,15 +48,10 @@
   - e.g. Data representation in data base.
 
 ## Tasks
--How to sort dictionary by keys.
-
--Compare between Adjacency Matrix/List (Speed, Time, Memory, Applications).
-
--How does DFS and BFS work.
-
--Create your own library and use it.
-
--Create a function receives stack elements as inputs from user while not equal to zero.
-
--Implement Unordered/Multi set in Python.
+- How to sort dictionary by keys.
+- Compare between Adjacency Matrix/List (Speed, Time, Memory, Applications).
+- How does DFS and BFS work.
+- Create your own library and use it.
+- Create a function receives stack elements as inputs from user while not equal to zero.
+- Implement Unordered/Multi set in Python.
 
