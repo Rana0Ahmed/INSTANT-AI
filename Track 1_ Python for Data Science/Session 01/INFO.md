@@ -2,7 +2,8 @@
 
 `Topic`: Introduction to AI
 
-# - Tasks
+## Notes
+## Tasks
 - Report about new programming language (1 year ago)
   - Fast as fast as C/C++
   - Syntax as Python
