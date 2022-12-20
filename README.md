@@ -46,12 +46,17 @@ This repository will provide my Artificial Intelligence journey with INSTANT Sof
 </div> </HTML>
 
 ### Track 2: Mathematics for Data science
+
+<HTML><div align="center">
+    
 |                                              Sessions                                                                       |  
 |-----------------------------------------------------------------------------------------------------------------------------|
 |[Session 01](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%202-%20Mathematics%20for%20Data%20Science/Session%2001)|
 |[Session 02](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%202-%20Mathematics%20for%20Data%20Science/Session%2002)|
 |[Session 03](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%202-%20Mathematics%20for%20Data%20Science/Session%2003)|
 |[Revision 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%202-%20Mathematics%20for%20Data%20Science/Revision%201)|
+
+</div> </HTML>
 
 ### Track 3: Data Analysis
 ### Track 4: Machine Learning
