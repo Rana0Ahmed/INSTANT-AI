@@ -4,7 +4,10 @@ This repository will provide my Artificial Intelligence journey with INSTANT Sof
 <p align="center">
 <img src="https://i.ibb.co/5YLhYZL/1.png" alt="" style="width:350px;"/>
     </p> 
-Instant Software Solution is a software company that relies primarily on innovative and modern solutions in the field of software and is a modern company that uses all tools, We keep things simple, putting you in control so you can make informed choices
+
+<p align='center'>
+    Instant Software Solution is a software company that relies primarily on innovative and modern solutions in the field of software and is a modern company that uses all tools, We keep things simple, putting you in control so you can make informed choices.
+</p>
 
 ### Contact info
 
