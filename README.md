@@ -1,8 +1,10 @@
 # INSTANT-AI
+This repository will provide my Artificial Intelligence journey with INSTANT Software Solution
 
-<img src ="https://camo.githubusercontent.com/1ca0b9c77ab067dddbe3057ba3b5c57f7e273d8b294e588329d5a06546639230/68747470733a2f2f692e6962622e636f2f35594c68595a4c2f312e706e67" width="350" heigh="350">
-
-##### Instant Software Solution is a software company that relies primarily on innovative and modern solutions in the field of software and is a modern company that uses all tools, We keep things simple, putting you in control so you can make informed choices
+<p align="center">
+<img src="https://i.ibb.co/5YLhYZL/1.png" alt="" style="width:350px;"/>
+    </p> 
+Instant Software Solution is a software company that relies primarily on innovative and modern solutions in the field of software and is a modern company that uses all tools, We keep things simple, putting you in control so you can make informed choices
 
 ### Contact info
 
@@ -18,20 +20,26 @@
 ## Diploma content
 
 ### Track 1: Python for Data science
- |Session|Topic|
-|---|---------------------------------|
-|(01)|[Introduction to AI](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2001/INFO.md)|               
-|(02)|[Git/Github](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2002/INFO.md) |              
-|(03)|[Python Basics (1)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2003/INFO.md)|               
-|(04)|[Python Basics (2)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2004/INFO.md)|
-|(05)|[Data structures (1)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2005/INFO.md)|
-|(06)|[Data structures (2)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2006/INFO.md)|
+
+
+<HTML><div align="center">
+    
+|Session  |Topic |
+| :-------------: | :--------:  |
+|(01)|[Introduction to AI](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2001/INFO.md)     |               
+|(02)|[Git/Github](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2002/INFO.md)             |              
+|(03)|[Python Basics (1)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2003/INFO.md)      |               
+|(04)|[Python Basics (2)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2004/INFO.md)      |
+|(05)|[Data structures (1)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2005/INFO.md)    |
+|(06)|[Data structures (2)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2006/INFO.md)    |
 |(07)|[Object-oriented programming (1)](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20Science/Session%2007)|
 |(08)|[Object-oriented programming (2)](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20Science/Session%2008)|
-|(09)|[Software Engineering](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2009/INFO.md)|
-|(10)|[AI Pipeline](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2010/INFO.md)|
-|(11)|[Web scrapping (1)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2011/INFO.md)|
-|(12)|[Web scrapping (2)](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20Science/Session%2012)|
+|(09)|[Software Engineering](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2009/INFO.md)   |
+|(10)|[AI Pipeline](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2010/INFO.md)            |
+|(11)|[Web scrapping (1)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%201_%20Python%20for%20Data%20Science/Session%2011/INFO.md)      |
+|(12)|[Web scrapping (2)](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%201_%20Python%20for%20Data%20Science/Session%2012)              |
+
+</div> </HTML>
 
 ### Track 2: Mathematics for Data science
 |                                              Sessions                                                                       |  
