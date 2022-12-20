@@ -1,6 +1,6 @@
 `Date`: 14 Aug 22 No. 07
 
-`Subject`: Object-Oriented Programming
+`Topic`: Object-Oriented Programming
 
 ## Content
  - Abstraction
