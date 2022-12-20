@@ -1,8 +1,8 @@
 `Date`: 7 Aug 22 No. 05
 
-`Subject`: Python (Recursion), Data structures (Array, LinkedList, Stack, Queue, Set)
+`Topic`: Python (Recursion), Data structures (Array, LinkedList, Stack, Queue, Set)
 
-## Content
+## Notes
  - Recursion.
  - Data structures. (Array, LinkedList, Stack, Queue)
  
