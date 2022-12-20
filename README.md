@@ -1,5 +1,8 @@
 # INSTANT-AI
+
+<p align='center'>
 This repository will provide my Artificial Intelligence journey with INSTANT Software Solution
+</p>
 
 <p align="center">
 <img src="https://i.ibb.co/5YLhYZL/1.png" alt="" style="width:350px;"/>
