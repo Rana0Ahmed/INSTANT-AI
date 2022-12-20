@@ -1,6 +1,6 @@
 `Date`: 4 Dec 22 Session No. 04
 
-`Subject`: Decision Tree and Random Forest
+`Topic`: Decision Tree and Random Forest
 
 ## Notes
 - **logistic regression**

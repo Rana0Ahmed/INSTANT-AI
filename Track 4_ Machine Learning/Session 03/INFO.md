@@ -1,6 +1,6 @@
 `Date`: 30 Nov 22 Session No. 03
 
-`Subject`: Linear Regression
+`Topic`: Linear Regression
 
 ## Notes
 - **Mean Absolute Error**
