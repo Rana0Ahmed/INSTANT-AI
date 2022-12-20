@@ -14,7 +14,7 @@
   - A tree can be “learned” by splitting the source set into subsets based on an attribute value test
   - `Decision tree can leads to Over fitting`
   
-     <img src="https://static.javatpoint.com/tutorial/machine-learning/images/decision-tree-classification-algorithm.png" width="370">
+  <img src="https://static.javatpoint.com/tutorial/machine-learning/images/decision-tree-classification-algorithm.png" width="370">
      
 - **Entropy**
   - Entropy measures the degree of randomness in data processed in machine learning. It determines how a decision tree chooses to split data
