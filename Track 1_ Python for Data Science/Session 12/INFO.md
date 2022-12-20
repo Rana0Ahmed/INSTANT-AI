@@ -1,8 +1,8 @@
 `Date`: 4 Sep 22 No. 12
 
-`Subject`: Web Scrapping
+`Topic`: Web Scrapping (2)
 
-# Notes 
+## Notes 
 - `strip()` function, can remove extra characters alphabets, numbers, spaces... from the laft and right side of the string
 
    ```
@@ -35,9 +35,9 @@ For more check
 [Comparison of HTML parsers](https://en.wikipedia.org/wiki/Comparison_of_HTML_parsers#:~:text=HTML%20parsers%20are%20software%20for%20automated%20Hypertext%20Markup,easily%20access%20and%20modify%20the%20%22HTML%20string%20code%22.)
 
 
-## Tasks :
-1. Download YouTube video by using Python code
-2. Scrape images by using Python code
-3. Scrape 5 articles from [CoreyMS](https://coreyms.com/)
-4. Scrape all [Your YouTube Subscriptions](https://www.youtube.com/feed/channels) (name and link for each channel)
+## Tasks 
+- Download YouTube video by using Python code
+- Scrape images by using Python code
+- Scrape 5 articles from [CoreyMS](https://coreyms.com/)
+- Scrape all [Your YouTube Subscriptions](https://www.youtube.com/feed/channels) (name and link for each channel)
 
