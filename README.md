@@ -64,7 +64,7 @@ This repository will provide my Artificial Intelligence journey with INSTANT Sof
 <HTML><div align="center">
     
 |Session|Topic|
-|-------|-----|
+|:-------: | :-----:|
 | (**01**) |[Linear_regression 1](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%204_%20Machine%20Learning/Session%2001)|
 | (**02**) |[Model Evaluation and Validation](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%204_%20Machine%20Learning/Session%2002/INFO.md)|
 | (**03**) |[Linear_regression 2](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%204_%20Machine%20Learning/Session%2003)|
