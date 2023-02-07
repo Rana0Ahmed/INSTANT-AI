@@ -1,6 +1,6 @@
 `Date`: 5 Oct 22 Session No. 02
 
-`Subject`: NumPy (2)
+`Topic`: NumPy (2)
 
 # Notes
 - In `Concatenation`: axis = 0 (Rows), 1 (Columns)

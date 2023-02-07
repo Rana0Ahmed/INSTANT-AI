@@ -1,6 +1,6 @@
 `Date`: 16 Oct 22 No. 04
 
-`Subject`: Pandas
+`Topic`: Pandas (2)
 
 # Notes
 - `group by` (split, apply and combine)
