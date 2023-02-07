@@ -59,6 +59,18 @@ This repository will provide my Artificial Intelligence journey with INSTANT Sof
 </div> </HTML>
 
 ### Track 3: Data Analysis
+
+<HTML><div align="center">
+    
+|Session|Topic|
+|:-------: | :-----:|
+| (**01**) |[NumPy (1)](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%203_Data%20Analysis/Session%2001)|
+| (**02**) |[NumPy (2)](https://github.com/Rana0Ahmed/INSTANT-AI/blob/main/Track%203_Data%20Analysis/Session%2002/INFO.md)|
+| (**03**) |[Pandas (1)](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%203_Data%20Analysis/Session%2003)|
+| (**04**) |[Pandas (2)](https://github.com/Rana0Ahmed/INSTANT-AI/tree/main/Track%203_Data%20Analysis/Session%2004)|
+
+</div> </HTML>
+
 ### Track 4: Machine Learning
 
 <HTML><div align="center">
